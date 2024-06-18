@@ -1,0 +1,7 @@
+C:\C# programmes\two integers\two integers\bin\Debug\two integers.exe.config
+C:\C# programmes\two integers\two integers\bin\Debug\two integers.exe
+C:\C# programmes\two integers\two integers\bin\Debug\two integers.pdb
+C:\C# programmes\two integers\two integers\obj\Debug\two integers.csproj.AssemblyReference.cache
+C:\C# programmes\two integers\two integers\obj\Debug\two integers.csproj.CoreCompileInputs.cache
+C:\C# programmes\two integers\two integers\obj\Debug\two integers.exe
+C:\C# programmes\two integers\two integers\obj\Debug\two integers.pdb
