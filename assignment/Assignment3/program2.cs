@@ -88,6 +88,7 @@ namespace program2
             student.GetMarks();
             student.DisplayData();
             student.DisplayResult();
+            Console.Read();
         }
     }
 }
