@@ -1,0 +1,7 @@
+C:\C# programmes\assesments\cc1\cc1\bin\Debug\cc1.exe.config
+C:\C# programmes\assesments\cc1\cc1\bin\Debug\cc1.exe
+C:\C# programmes\assesments\cc1\cc1\bin\Debug\cc1.pdb
+C:\C# programmes\assesments\cc1\cc1\obj\Debug\cc1.csproj.AssemblyReference.cache
+C:\C# programmes\assesments\cc1\cc1\obj\Debug\cc1.csproj.CoreCompileInputs.cache
+C:\C# programmes\assesments\cc1\cc1\obj\Debug\cc1.exe
+C:\C# programmes\assesments\cc1\cc1\obj\Debug\cc1.pdb
