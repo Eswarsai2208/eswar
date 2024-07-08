@@ -1,0 +1,10 @@
+C:\C# programmes\assignment\Assignment6\TicketBookingApp\bin\Debug\TicketBookingApp.exe.config
+C:\C# programmes\assignment\Assignment6\TicketBookingApp\bin\Debug\TicketBookingApp.exe
+C:\C# programmes\assignment\Assignment6\TicketBookingApp\bin\Debug\TicketBookingApp.pdb
+C:\C# programmes\assignment\Assignment6\TicketBookingApp\bin\Debug\Assignment6.dll
+C:\C# programmes\assignment\Assignment6\TicketBookingApp\bin\Debug\Assignment6.pdb
+C:\C# programmes\assignment\Assignment6\TicketBookingApp\obj\Debug\TicketBookingApp.csproj.AssemblyReference.cache
+C:\C# programmes\assignment\Assignment6\TicketBookingApp\obj\Debug\TicketBookingApp.csproj.CoreCompileInputs.cache
+C:\C# programmes\assignment\Assignment6\TicketBookingApp\obj\Debug\TicketBookingApp.csproj.CopyComplete
+C:\C# programmes\assignment\Assignment6\TicketBookingApp\obj\Debug\TicketBookingApp.exe
+C:\C# programmes\assignment\Assignment6\TicketBookingApp\obj\Debug\TicketBookingApp.pdb

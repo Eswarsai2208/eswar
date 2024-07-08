@@ -1,0 +1,6 @@
+C:\C# programmes\assignment\Assignment6\Assignment6\bin\Debug\Assignment6.dll
+C:\C# programmes\assignment\Assignment6\Assignment6\bin\Debug\Assignment6.pdb
+C:\C# programmes\assignment\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.AssemblyReference.cache
+C:\C# programmes\assignment\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.CoreCompileInputs.cache
+C:\C# programmes\assignment\Assignment6\Assignment6\obj\Debug\Assignment6.dll
+C:\C# programmes\assignment\Assignment6\Assignment6\obj\Debug\Assignment6.pdb
