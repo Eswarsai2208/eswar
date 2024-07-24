@@ -1,0 +1,37 @@
+Question No.5
+
+create function dbo.CalculateBonus(@empno int)
+return decimal(10,2)
+as
+begin
+    declare @bonus decimal(10,2);
+    declare @deptno int;
+    declare @sal decimal(10,2);
+select @deptno = Deptno, @sal = Sal from tblemployees1 where empno = @Empno;
+    if @Deptno = 10
+       begin
+        set @bonus = @sal * 0.15 ;
+	end
+    else if @Deptno = 20 
+      begin
+        set @bonus = @sal * 0.20 ;
+	end
+    else
+      begin
+        set @bonus =  @sal * 0.05;
+    end 
+
+    return @bonus;
+end;
+
+select EmpNo, EName, Job, Sal, dbo.CalculateBonus(EmpNo) as bonus from tblemployees1
+
+Question No.4
+
+select EmpNo, EName, Sal from tblemployees1;
+where EmpNo in (7566, 7499, 7521)
+update tblemployees1 set Sal = Sal * 1.15 where EmpNo = 7499;
+delete from tblemployees1 where EmpNo = 7499;
+begin transaction;
+delete from tblemployees where Empid = 7499;
+rollback;

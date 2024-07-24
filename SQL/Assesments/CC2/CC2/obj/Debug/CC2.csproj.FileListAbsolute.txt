@@ -1,7 +1,0 @@
-C:\C# programmes\SQL\Assesments\CC2\CC2\bin\Debug\CC2.exe.config
-C:\C# programmes\SQL\Assesments\CC2\CC2\bin\Debug\CC2.exe
-C:\C# programmes\SQL\Assesments\CC2\CC2\bin\Debug\CC2.pdb
-C:\C# programmes\SQL\Assesments\CC2\CC2\obj\Debug\CC2.csproj.AssemblyReference.cache
-C:\C# programmes\SQL\Assesments\CC2\CC2\obj\Debug\CC2.csproj.CoreCompileInputs.cache
-C:\C# programmes\SQL\Assesments\CC2\CC2\obj\Debug\CC2.exe
-C:\C# programmes\SQL\Assesments\CC2\CC2\obj\Debug\CC2.pdb
