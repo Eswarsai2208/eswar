@@ -1,0 +1,7 @@
+C:\C# programmes\SQL\Assesments\CC7\CC7\bin\Debug\CC7.exe.config
+C:\C# programmes\SQL\Assesments\CC7\CC7\bin\Debug\CC7.exe
+C:\C# programmes\SQL\Assesments\CC7\CC7\bin\Debug\CC7.pdb
+C:\C# programmes\SQL\Assesments\CC7\CC7\obj\Debug\CC7.csproj.AssemblyReference.cache
+C:\C# programmes\SQL\Assesments\CC7\CC7\obj\Debug\CC7.csproj.CoreCompileInputs.cache
+C:\C# programmes\SQL\Assesments\CC7\CC7\obj\Debug\CC7.exe
+C:\C# programmes\SQL\Assesments\CC7\CC7\obj\Debug\CC7.pdb
