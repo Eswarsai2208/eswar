@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Multiplication and Division</title>
+    <script>
+        function calculate() {
+            var a = parseFloat(document.getElementById('a').value);
+            var b = parseFloat(document.getElementById('b').value);
+            var multiplication = a * b;
+            var division = a / b;
+            document.getElementById('result').innerHTML = "Multiplication:" + multiplication + "<br>" + "Division:" + division;
+        }
+    </script>
+</head>
+<body>
+    <h2>Multiplication and Division</h2>
+    <p>Enter the numbers:</p>
+    <input type="text" id="a" />
+    <input type="text" id="b" />
+    <button onclick="calculate()">click</button>
+    <p id="result"></p>
+</body>
+</html>
