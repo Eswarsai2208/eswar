@@ -1,0 +1,7 @@
+C:\Users\eswars\Documents\MiniProject1\MiniProject1\bin\Debug\MiniProject1.exe.config
+C:\Users\eswars\Documents\MiniProject1\MiniProject1\bin\Debug\MiniProject1.exe
+C:\Users\eswars\Documents\MiniProject1\MiniProject1\bin\Debug\MiniProject1.pdb
+C:\Users\eswars\Documents\MiniProject1\MiniProject1\obj\Debug\MiniProject1.csproj.AssemblyReference.cache
+C:\Users\eswars\Documents\MiniProject1\MiniProject1\obj\Debug\MiniProject1.csproj.CoreCompileInputs.cache
+C:\Users\eswars\Documents\MiniProject1\MiniProject1\obj\Debug\MiniProject1.exe
+C:\Users\eswars\Documents\MiniProject1\MiniProject1\obj\Debug\MiniProject1.pdb

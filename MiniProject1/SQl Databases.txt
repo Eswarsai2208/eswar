@@ -1,0 +1,51 @@
+create database RailwayDB;
+go
+
+use RailwayDB;
+go
+
+-- Create Train Table
+create table Train (
+    TrainID int identity(1,1) PRIMARY KEY,
+    TrainNo nvarchar(20),
+    TrainName nvarchar(50),
+    FromStation nvarchar(50),
+    ToStation nvarchar(50),
+    Date date,
+    Price decimal(10, 2),
+    Status nvarchar(20),
+    NoOfSeats int,
+    Classes nvarchar(50)
+);
+
+-- Create User Table
+create table [User] (
+    UserID int identity(1,1) primary key,
+    UserName nvarchar(100) unique,
+    Password nvarchar(100),
+    FullName nvarchar(100),
+    Email nvarchar(100),
+    PhoneNumber nvarchar(15),
+    UserRole nvarchar(50)
+);
+
+-- Create Booking Table
+create table Booking (
+    BookingID int identity(1,1) primary key,
+    TrainID int,
+    UserID int,
+    NumberOfSeats int,
+    Status nvarchar(20),
+    foreign key (TrainID) references Train(TrainID),
+    foreign key (UserID) references [User](UserID)
+);
+
+insert into Train (TrainNo, TrainName, FromStation, ToStation, Date, Price, Status, NoOfSeats, Classes) values
+('22070', 'Hamsafer Express', 'Chennai', 'Mumbai', '2024-08-10', 2500.00, 'Active', 200, '1A'),
+('22080', 'Shatabdi Express', 'Delhi', 'Chennai', '2024-08-12', 1800.00, 'Active', 150, '2A'),
+('22090', 'Rajdhani Express', 'Bangalore', 'Delhi', '2024-08-15', 1500.00, 'Active', 180, '3A');
+
+insert into [User] (UserName, Password, FullName, Email, PhoneNumber, UserRole) values
+('eshu','eshu2208@','Eswarsai','eshu2208@gmail.com','63782362822','User'),
+('sai','eshu2208','Sai','Sai2288@gmail.com','63678292728','Admin');
+
