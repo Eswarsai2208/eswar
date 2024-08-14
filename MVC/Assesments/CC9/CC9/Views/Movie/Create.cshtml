@@ -1,0 +1,29 @@
+﻿@model CC9.Models.Movie
+ 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Create Movie</title>
+</head>
+<body>
+    <h2>Create Movie</h2>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+ 
+        <div>
+            @Html.LabelFor(m => m.Moviename)
+            @Html.TextBoxFor(m => m.Moviename)
+            @Html.ValidationMessageFor(m => m.Moviename)
+        </div>
+        <div>
+            @Html.LabelFor(m => m.DateofRelease)
+            @Html.TextBoxFor(m => m.DateofRelease, "{0:yyyy-MM-dd}")
+            @Html.ValidationMessageFor(m => m.DateofRelease)
+        </div>
+        <div>
+            <input type="submit" value="Create" />
+        </div>
+    }
+</body>
+</html>
